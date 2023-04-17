@@ -1,0 +1,16 @@
+{
+  "name": "oopexercices",
+  "version": "1.0.0",
+  "description": "Praticando pragramação orientada a objetos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./src/index.js"
+  },
+  "author": "eu",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
